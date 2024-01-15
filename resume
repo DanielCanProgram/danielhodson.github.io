@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daniel Hodson's Website</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 20px;
+            background-color: #f8f8f8;
+            color: #333;
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        h1 {
+            color: #004080;
+        }
+
+        h2 {
+            color: #004080;
+        }
+
+        p {
+            color: #555;
+        }
+
+        .contact-info {
+            margin-bottom: 20px;
+        }
+
+        .skills, .extracurricular, .achievements, .references {
+            margin-top: 20px;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        li {
+            margin-bottom: 8px;
+        }
+
+        a {
+            color: #0066cc;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        footer {
+            margin-top: 50px;
+            text-align: center;
+            color: #777;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Daniel Hodson</h1>
+        <div class="contact-info">
+            <p>Email: <a href="mailto:danielhodsonschool@gmail.com">danielhodsonschool@gmail.com</a></p>
+            <p>Phone: 0493 576 320</p>
+        </div>
+    </header>
+
+    <section>
+        <h2>Objective</h2>
+        <p>To gain valuable experience and contribute skills in a work environment.</p>
+    </section>
+
+    <section>
+        <h2>Education</h2>
+        <p>Hazel Glen College | Year 9</p>
+    </section>
+
+    <section class="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>Quick learner and adaptable to new tasks</li>
+            <li>Advanced computer skills</li>
+            <li>Positive communication skills</li>
+            <li>Working independently while being committed to supporting the team</li>
+        </ul>
+    </section>
+
+    <section class="extracurricular">
+        <h2>Extracurricular Activities</h2>
+        <ul>
+            <li>Club Soccer (6 years)</li>
+            <li>Competitive Swimming (3 years)</li>
+        </ul>
+    </section>
+
+    <section class="achievements">
+        <h2>Achievements</h2>
+        <ul>
+            <li>Hazel Glen Year 8: Citizenship Award Nomination</li>
+            <li>Atholl Heights Year 7: [Details not provided]</li>
+        </ul>
+    </section>
+
+    <section class="references">
+        <h2>References</h2>
+        <li>scarpenter@hazelglencollege.com</li>
+
+        <ul> 
+            <section>
+                <h2>Parent contact details</h2>
+
+                <li> Father: Christopher Hodson 0493 468 615</li>
+                <li> Mother: Leanne Hodson      0493 561 271</li>
+
+            
